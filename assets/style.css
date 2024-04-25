@@ -1,0 +1,27 @@
+I* {
+    margin: 0 auto;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    
+}
+
+.content {
+    text-align: center;
+    align-items: center;
+    background-color: #ddd;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+button {
+    padding: 10px 15px;
+    background-color: blue;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    margin-right: 10px;
+}
